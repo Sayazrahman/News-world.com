@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Sayazrahman/News-world.com.git/precache-manifest.45c819c61d16b9c09721accdcbb97ef4.js"
+  "/News-world.com/precache-manifest.86d3cc938be63c51a0d039ca6ea69277.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Sayazrahman/News-world.com.git/index.html", {
+workbox.routing.registerNavigationRoute("/News-world.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
