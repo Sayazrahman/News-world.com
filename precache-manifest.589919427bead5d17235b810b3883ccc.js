@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0c1b9d22570bd62f0392",
+    "revision": "e9023084b405b991e5f0",
     "url": "/News-world.com/static/css/main.fc261165.chunk.css"
   },
   {
-    "revision": "0c1b9d22570bd62f0392",
-    "url": "/News-world.com/static/js/main.0c1b9d22.chunk.js"
+    "revision": "e9023084b405b991e5f0",
+    "url": "/News-world.com/static/js/main.e9023084.chunk.js"
   },
   {
     "revision": "fbee9149cc341e4ff9a0",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/News-world.com/static/media/loading.444c0d9c.gif"
   },
   {
-    "revision": "a428a0d2936b8f909069e07535213f56",
+    "revision": "30150d941b128c0f86f77725ff92369d",
     "url": "/News-world.com/index.html"
   }
 ];
