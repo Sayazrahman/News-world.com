@@ -1,7 +1,7 @@
 {
   "main.css": "/News-world.com/static/css/main.fc261165.chunk.css",
-  "main.js": "/News-world.com/static/js/main.22c52106.chunk.js",
-  "main.js.map": "/News-world.com/static/js/main.22c52106.chunk.js.map",
+  "main.js": "/News-world.com/static/js/main.fda183d0.chunk.js",
+  "main.js.map": "/News-world.com/static/js/main.fda183d0.chunk.js.map",
   "static/js/1.fbee9149.chunk.js": "/News-world.com/static/js/1.fbee9149.chunk.js",
   "static/js/1.fbee9149.chunk.js.map": "/News-world.com/static/js/1.fbee9149.chunk.js.map",
   "static/js/2.90b3a98a.chunk.js": "/News-world.com/static/js/2.90b3a98a.chunk.js",
@@ -11,6 +11,6 @@
   "static/media/loading.gif": "/News-world.com/static/media/loading.444c0d9c.gif",
   "static/css/main.fc261165.chunk.css.map": "/News-world.com/static/css/main.fc261165.chunk.css.map",
   "index.html": "/News-world.com/index.html",
-  "precache-manifest.0f2333fb8b0fca0e1b22cce42298e4b6.js": "/News-world.com/precache-manifest.0f2333fb8b0fca0e1b22cce42298e4b6.js",
+  "precache-manifest.7c3876a114440489e6c3217ad3f88523.js": "/News-world.com/precache-manifest.7c3876a114440489e6c3217ad3f88523.js",
   "service-worker.js": "/News-world.com/service-worker.js"
 }
