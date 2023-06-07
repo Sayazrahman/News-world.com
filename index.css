@@ -1,0 +1,26 @@
+.fa {
+   
+    padding: 2,2,15px;
+    font-size: 20px;
+    width:12px;
+    text-decoration: none;
+    border-radius: 30px;
+    height: 15px;
+    margin: 10px;
+    
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: #bf0f81;
+    color: white;
+  }
